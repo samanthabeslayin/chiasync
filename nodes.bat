@@ -4,7 +4,7 @@ cls
 
 :start
 
-​chia show -a introducer-or.chia.net:8444
+chia show -a introducer-or.chia.net:8444
 chia show -a node.chia.net:8444
 chia show -a node-eu.chia.net:8444
 chia show -a  71.194.193.24:8444
