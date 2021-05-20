@@ -11,7 +11,7 @@ Very simple to operate.  Contains two batch files that you need to modify to you
 
 2) start_nodes.bat - place this on your desktop and double click it to perform the sync
 
-      -->  Change the file directory and App to match the location of the nodes.bat file
+      -->  EDIT THIS FILE BEFORE USING:  Change the file directory and App to match the location of the nodes.bat file
       
       -->  C:\Users\YOUR_USER_NAME_GOES_HERE\AppData\Local\chia-blockchain\app-1.1.5\resources\app.asar.unpacked\daemon
       
