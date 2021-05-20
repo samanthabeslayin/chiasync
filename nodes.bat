@@ -48,4 +48,6 @@ chia show -a  70.188.164.68:8444
 chia show -a  67.240.3.143:8444
 chia show -a  70.140.25.254:8444
 
+ping -n 1800 localhost> nul
+
 goto start
