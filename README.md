@@ -1,6 +1,7 @@
 # chiasync
-simple batch file that syncs Chia (1.1.5) 
-Very simple to operate.  Contains two batch files that you need to modify to your user name and current Chia app version and then put them in the correct folder. 
+Simple batch files that sync Chia (1.1.5) 
+
+Very simple to operate.  Contains two batch files that you need to modify to your user name and current Chia app version and then put them in the correct folder.  All of the nodes were updated 5/20/2021 via https://chia.powerlayout.com/ filtering only the USA nodes.  If you are not in the USA, then you will want to update the node IPs for optimum connections. 
 
 1) nodes.bat  -  place this inside of your Chia Daemon folder:
 
